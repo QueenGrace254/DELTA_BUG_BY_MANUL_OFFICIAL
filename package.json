@@ -1,5 +1,5 @@
 {
-  "name": "DELTABUG1.0",
+  "name": "VENOMBUG1.0",
   "version": "1.0.0",
   "description": "Simple Bot Whatsapp With Baileys",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "MANUL",
+  "author": "GRACE",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
